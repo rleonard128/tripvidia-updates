@@ -1,1 +1,1 @@
-{"version": "1.5.2", "sha256": "db191013d9a276a26f464bedbe201f270b3569a02fd051bf0e771f132cb94504"}
+{"version": "1.5.3", "sha256": "ccbd45bc2fe63892953bea6cc9609e6c4dc711392a34c7929969638a876e1344", "patch": {"from": "1.5.2", "asset": "TripVidia-Patch-1.5.2-to-1.5.3.exe", "sha256": "cb0f6dafb9bb678f509b4d21a54e0a9a34a7d125b4bc536f831a52026d9ded61", "size": 26184304}}
