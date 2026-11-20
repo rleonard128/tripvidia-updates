@@ -1,1 +1,1 @@
-{"version": "1.5.3", "sha256": "ccbd45bc2fe63892953bea6cc9609e6c4dc711392a34c7929969638a876e1344", "patch": {"from": "1.5.2", "asset": "TripVidia-Patch-1.5.2-to-1.5.3.exe", "sha256": "cb0f6dafb9bb678f509b4d21a54e0a9a34a7d125b4bc536f831a52026d9ded61", "size": 26184304}}
+{"version": "1.5.4", "sha256": "54bfb545fc59dd9d51f6f6991e46e3e88bd7fd6fc2ccbb8f80ebf15c928ee203", "patch": {"from": "1.5.3", "asset": "TripVidia-Patch-1.5.3-to-1.5.4.exe", "sha256": "b7e79e9e97320f00f7c6b7884ad75b7b8b146173e1e8fb07396ca741c0c3b78e", "size": 53982695}}
